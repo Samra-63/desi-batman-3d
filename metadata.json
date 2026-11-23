@@ -1,0 +1,6 @@
+{
+  "name": "Desi Batman: Gaon Ka Rakhwala 3D",
+  "description": "A 3D third-person action-adventure game set in a dusk-to-night South Asian village featuring Desi Batman, the mountable Bat-Bhensa, Desi Joker, and Desi Superman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
