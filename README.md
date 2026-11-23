@@ -17,7 +17,7 @@
 ## 🌐 Live Public Demo
 
 Play directly in your browser with zero installation:  
-👉 **[https://YOUR-VERCEL-LINK.vercel.app](https://YOUR-VERCEL-LINK.vercel.app)**
+👉 **[https://desi-batman-game.vercel.app/](https://desi-batman-game.vercel.app/)**
 
 ---
 
